@@ -1,7 +1,5 @@
 # Procesamiento Digital de Imágenes (PDI)
 
-Este repositorio contiene tres prácticas completas de Procesamiento Digital de Imágenes que implementan diferentes técnicas y algoritmos fundamentales en el área.
-
 ## 📋 Prácticas Implementadas
 
 ### 1. **Práctica 1: Extracción de Componentes Conexas**
