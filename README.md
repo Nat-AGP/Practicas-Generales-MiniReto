@@ -91,9 +91,7 @@
 - **PIL (Pillow)** - Manipulación de imágenes
 
 ## 📅 Planeer 
-📌[Planner Fase 1]()
-📌[Planner Fase 2]()
-📌[Planner Fase 3](https://planner.cloud.microsoft/f94bf4d9-8097-4794-adf6-a5466ca28563/Home/PlanViews/6A_psPFaoEG-zhIpXLq7b2QAG6P8?Type=PlanLink&Channel=Link&CreatedTime=638999486218790000)
+📌[Planner General desde la Introducción hasta Práctica Final.](https://planner.cloud.microsoft/f94bf4d9-8097-4794-adf6-a5466ca28563/Home/PlanViews/6A_psPFaoEG-zhIpXLq7b2QAG6P8?Type=PlanLink&Channel=Link&CreatedTime=638999486218790000)
 
 ## 🚀 Cómo Ejecutar
 
