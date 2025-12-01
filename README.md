@@ -90,8 +90,10 @@
 - **SciPy** - Algoritmos avanzados
 - **PIL (Pillow)** - Manipulación de imágenes
 
-## 📅 Planeer 
-📌[Planner General desde la Introducción hasta Práctica Final.](https://planner.cloud.microsoft/f94bf4d9-8097-4794-adf6-a5466ca28563/Home/PlanViews/6A_psPFaoEG-zhIpXLq7b2QAG6P8?Type=PlanLink&Channel=Link&CreatedTime=638999486218790000)
+## 📁 Recursos Adicionales (Anexos)
+📌[Planner General.](https://planner.cloud.microsoft/f94bf4d9-8097-4794-adf6-a5466ca28563/Home/PlanViews/6A_psPFaoEG-zhIpXLq7b2QAG6P8?Type=PlanLink&Channel=Link&CreatedTime=638999486218790000)
+📌[Video Informativo]()
+📌[Mapa Colaborativo](https://www.canva.com/design/DAG4CeyzhEg/j6rmP_Plp4tEMoHFFfRPjA/edit?utm_content=DAG4CeyzhEg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## 🚀 Cómo Ejecutar
 
